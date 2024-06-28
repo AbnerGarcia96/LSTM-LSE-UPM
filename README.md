@@ -7,7 +7,7 @@ El objetivo de este programa es el de implementar modelos holísticos y redes ne
 La estructura de archivos y carpetas es la siguiente:
 
 - README.md: archivo con la descripción del repositorio.
-- data/: carpeta con los datos de entrenamiento (actualmente las palabras "Hola" y "Gracias").
+- data/: carpeta con los datos de entrenamiento.
 - predictor_LSE.m5: archivo con los pesos de la red neuronal previamente entrenada.
 - Reconocimiento de gestos.ipynb: notebook de jupyter en el que se encuentra el código para la detección de gestos en lengua de signos propuesto.
 
